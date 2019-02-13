@@ -1,0 +1,5 @@
+#MNIST data
+/mnist
+#ipython tempory file
+/.ipynb_checkpoints
+/__pycache__
